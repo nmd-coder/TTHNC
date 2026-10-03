@@ -1,0 +1,15 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.out
+
+# Visual Studio / VS Code cache
+.vscode/ipch/
+*.pdb
+*.ilk
+*.suo
+*.user
+
+# Temporary files
+*.tmp
